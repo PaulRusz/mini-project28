@@ -41,6 +41,11 @@ p {
 
 }
 
+.boxes {
+    display: flex;
+    flex-direction: column;
+}
+
 footer {
     color: hotpink;
     text-align: center;
