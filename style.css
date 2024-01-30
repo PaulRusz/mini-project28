@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    color: hotpink;
+    text-align: center;
+    padding: 3%;
+}
+
+.header {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: hotpink;
+    font-size: 20px;
+}
+
+h3 {
+    color: hotpink;
+    font-size: 15px;
+}
+
+p {
+    color: white;
+}
+
+.section {
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+footer {
+    color: hotpink;
+    text-align: center;
+}
